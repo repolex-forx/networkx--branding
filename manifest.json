@@ -1,0 +1,22 @@
+{
+  "manifest_version": "1.0",
+  "org": "networkx",
+  "repo": "branding",
+  "versions": [
+    {
+      "commit": "ae3bf51c7e52d37ab592c7ec3119467f84f5d43b",
+      "parsed_at": "2026-10-21T03:06:59.961596+00:00",
+      "filetree": "filetree/ae3bf51c7e52d37ab592c7ec3119467f84f5d43b.nq.gz",
+      "blobs": [
+        "blob/a6559b1e3a24f6aeef2046b6b7efb118ac3199a2.nq.gz",
+        "blob/9e8d8053c351330aa7930f524b2653f1b387f7f8.nq.gz",
+        "blob/aa20bf8b902e4e7ea5f0deb75dea1f3b13bd7533.nq.gz",
+        "blob/d07283e7f9228a0380495c1cc89c18a25b355ec5.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
